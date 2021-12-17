@@ -1,5 +1,4 @@
-# jenkins-with-terraform
-
+# CI/CD with Jenkins - Terraform using IAAC
 
 
 Cronjob is enabled for builds. Please delete it from groovy file if you don't need it.
