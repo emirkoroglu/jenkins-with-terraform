@@ -1,4 +1,4 @@
-# CI/CD with Jenkins - Terraform using IAAC
+# CI/CD with Jenkins - Terraform using IAAC best practices
 
 
 Cronjob is enabled for builds. Please delete it from groovy file if you don't need it.
