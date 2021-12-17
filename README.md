@@ -1,1 +1,9 @@
 # jenkins-with-terraform
+
+
+
+Cronjob is enabled for builds. Please delete it from groovy file if you don't need it.
+
+
+
+Last stage in the groovy file is destroy. Please delete the last stage if you want to keep the environment up and running for longer sessions.
